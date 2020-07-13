@@ -1,5 +1,5 @@
 {
-  "name": "covid-form",
+  "name": "mcs-login-patients",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,9 +7,11 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "bootstrap": "^4.5.0",
     "core-js": "^3.6.5",
     "register-service-worker": "^1.7.1",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vue-router": "^3.3.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
